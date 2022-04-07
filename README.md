@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil👋
 ## Aqui você encontrará informações sobre tecnologia e programação. Veja os meus repositórios
-<!--
+
 **yCrist60/yCrist60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
